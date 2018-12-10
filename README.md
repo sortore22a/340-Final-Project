@@ -1,2 +1,2 @@
 # 340-Final-Project
-git init
+$ git init
